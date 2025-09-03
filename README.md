@@ -1,2 +1,1 @@
-# Battery-cooling
-Battery Cooling using Liquid Cooling : MSMD Model
+Developed and simulated a Li-ion battery thermal management system using the Multi-Scale Multi-Domain (MSMD) model in ANSYS Fluent.Generated contour plots of temperature and current density to analyze heat distribution across battery cells.Optimized cooling performance by reducing the maximum cell temperatur
